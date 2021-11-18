@@ -1,4 +1,6 @@
 // Roman to Integer
+// Difficulty: Easy
+
 // Runtime: 80 ms, faster than 71.79% of C# online submissions for Roman to Integer.
 // Memory Usage: 39.6 MB, less than 12.75% of C# online submissions for Roman to Integer.
 
