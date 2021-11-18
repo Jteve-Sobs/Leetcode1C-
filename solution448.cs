@@ -1,3 +1,6 @@
+// Find All Numbers Disappeared in an Array
+// Difficulty: Easy
+
 public class Solution {
     public IList<int> FindDisappearedNumbers(int[] nums) {
         var returnList = new List<int>();
