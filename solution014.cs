@@ -27,9 +27,9 @@ public class Solution {
 
                 // Closing bracket and no matching opening bracket exists
                 if (index == -1)
-				{
-					return false;
-				}
+		{
+			return false;
+		}
                 
                 if (index == openedBrackets.Count - 1)
                 {
